@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>加算結果をテキストファイルに出力</title>
+</head>
+<body>
+    <div id="app">
+        <input type="text" id="input1" placeholder="数値1">
+        <span>+</span>
+        <input type="text" id="input2" placeholder="数値2">
+        <span>=</span>
+        <input type="text" id="result" readonly>
+        <button onclick="calculate()">計算</button>
+        <button onclick="outputText()">テキストファイルに出力</button>
+    </div>
+    <hr>
+    <div id="app">
+        <input type="text" id="input1_2" placeholder="数値1">
+        <span>-</span>
+        <input type="text" id="input2_2" placeholder="数値2">
+        <span>=</span>
+        <input type="text" id="result_2" readonly>
+        <button onclick="calculate2()">計算</button>
+        <button onclick="outputText2()">テキストファイルに出力</button>
+    </div>
+
+    <script>
+        function calculate() {
+            const input1 = parseFloat(document.getElementById("input1").value);
+            const input2 = parseFloat(document.getElementById("input2").value);
+            const result = input1 + input2;
+            document.getElementById("result").value = result;
+
+            link.click();
+        }
+        function outputText() {
+            const input1 = parseFloat(document.getElementById("input1").value);
+            const input2 = parseFloat(document.getElementById("input2").value);
+            const result = input1 + input2;
+
+            // 結果をテキストファイルに出力
+            const blob = new Blob([result.toString()], { type: "text/plain" });
+            const link = document.createElement("a");
+            link.href = URL.createObjectURL(blob);
+            link.download = "result.txt"; // ファイル名を指定
+            link.click();
+        }
+        function calculate2() {
+            const input1 = parseFloat(document.getElementById("input1_2").value);
+            const input2 = parseFloat(document.getElementById("input2_2").value);
+            const result = input1 - input2;
+            document.getElementById("result_2").value = result;
+
+            link.click();
+        }
+        function outputText2() {
+            const input1 = parseFloat(document.getElementById("input1_2").value);
+            const input2 = parseFloat(document.getElementById("input2_2").value);
+            const result = input1 - input2;
+
+            // 結果をテキストファイルに出力
+            const blob = new Blob([result.toString()], { type: "text/plain" });
+            const link = document.createElement("a");
+            link.href = URL.createObjectURL(blob);
+            link.download = "result2.txt"; // ファイル名を指定
+            link.click();
+        }
+    </script>
+</body>
+</html>
