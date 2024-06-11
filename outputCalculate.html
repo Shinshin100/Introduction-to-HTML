@@ -25,6 +25,16 @@
         <button onclick="calculate2()">計算</button>
         <button onclick="outputText2()">テキストファイルに出力</button>
     </div>
+    <hr>
+    <div id="app">
+        <input type="text" id="input1_3" placeholder="数値1">
+        <span>X</span>
+        <input type="text" id="input2_3" placeholder="数値2">
+        <span>=</span>
+        <input type="text" id="result_3" readonly>
+        <button onclick="calculate3()">計算</button>
+        <button onclick="outputText3()">テキストファイルに出力</button>
+    </div>
 
     <script>
         function calculate() {
@@ -65,6 +75,26 @@
             const link = document.createElement("a");
             link.href = URL.createObjectURL(blob);
             link.download = "result2.txt"; // ファイル名を指定
+            link.click();
+        }
+        function calculate3() {
+            const input1 = parseFloat(document.getElementById("input1_3").value);
+            const input2 = parseFloat(document.getElementById("input2_3").value);
+            const result = input1 * input2;
+            document.getElementById("result_3").value = result;
+
+            link.click();
+        }
+        function outputText3() {
+            const input1 = parseFloat(document.getElementById("input1_3").value);
+            const input2 = parseFloat(document.getElementById("input2_3").value);
+            const result = input1 * input2;
+
+            // 結果をテキストファイルに出力
+            const blob = new Blob([result.toString()], { type: "text/plain" });
+            const link = document.createElement("a");
+            link.href = URL.createObjectURL(blob);
+            link.download = "result3.txt"; // ファイル名を指定
             link.click();
         }
     </script>
