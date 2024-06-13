@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>加算結果をテキストファイルに出力</title>
+</head>
+<body>
+    <div id="app">
+        <input type="text" id="input1" placeholder="数値1">
+        <select name="calc" id="calc">
+          <option value="+">+</option>
+          <option value="-">-</option>
+          <option value="x">x</option>
+          <option value="/">/</option>
+        </select>
+        <input type="text" id="input2" placeholder="数値2">
+        <span>=</span>
+        <input type="text" id="result" readonly>
+        <button onclick="calculate()">計算</button>
+        <button onclick="outputText()">テキストファイルに出力</button>
+    </div>
+
+    <script>
+        function calculate() {
+            const input1 = parseFloat(document.getElementById("input1").value);
+            const input2 = parseFloat(document.getElementById("input2").value);
+            const calc = document.getElementById("calc").value;
+            let result = 0;
+
+            switch (calc) {
+              case "+":
+                result = input1 + input2;
+                break
+              case "-":
+                result = input1 - input2;
+                break
+              case "x":
+                result = input1 * input2;
+                break
+              case "/":
+                result = input1 / input2;
+                break
+              default:
+            }
+
+            document.getElementById("result").value = result;
+            return result;
+        }
+        function dispResult() {
+            calculate()
+            link.click();
+        }
+        function outputText() {
+            const result = calculate();
+
+            // 結果をテキストファイルに出力
+            const blob = new Blob([result.toString()], { type: "text/plain" });
+            const link = document.createElement("a");
+            link.href = URL.createObjectURL(blob);
+            link.download = "result.txt"; // ファイル名を指定
+            link.click();
+        }
+    </script>
+</body>
+</html>
