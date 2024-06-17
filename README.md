@@ -4,5 +4,5 @@
 ・掛け算とファイル出力
 ・割り算とファイル出力
 
-outputCalculate2を追加
+SelectOperator.html
 ・outputCalculateの演算を一つにまとめる
