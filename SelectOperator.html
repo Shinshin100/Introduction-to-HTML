@@ -8,7 +8,7 @@
 <body>
     <div id="app">
         <input type="text" id="input1" placeholder="数値1">
-        <select name="calc" id="calc">
+        <select name="operator" id="operator">
           <option value="+">+</option>
           <option value="-">-</option>
           <option value="x">x</option>
@@ -25,10 +25,10 @@
         function calculate() {
             const input1 = parseFloat(document.getElementById("input1").value);
             const input2 = parseFloat(document.getElementById("input2").value);
-            const calc = document.getElementById("calc").value;
+            const operator = document.getElementById("operator").value;
             let result = 0;
 
-            switch (calc) {
+            switch (operator) {
               case "+":
                 result = input1 + input2;
                 break
