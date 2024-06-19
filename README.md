@@ -6,3 +6,5 @@
 
 SelectOperator.html
 ・outputCalculateの演算を一つにまとめる
+
+自己紹介ページを追加
