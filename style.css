@@ -1,3 +1,9 @@
+.Name {
+    font-size: 20px;
+}
+.Bio {
+    font-size: 12px;
+}
 .Image {
     position: absolute;
     top: 20px;
