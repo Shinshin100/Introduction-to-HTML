@@ -9,7 +9,7 @@ SelectOperator.html
 ・outputCalculateの演算を一つにまとめる
 
 自己紹介ページを追加
-タグを追加
+以下のタグを追加
 ・img
 ・h1, h2, h3, h4, h5, h6
 ・article
