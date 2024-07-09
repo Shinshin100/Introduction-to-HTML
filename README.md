@@ -3,7 +3,7 @@ HTML練習用
 以下の内容を実施
 
 SelectOperator.html
-・outputCalculateの演算を一つにまとめる
+（outputCalculateの演算を一つにまとめる）
 
 【計算結果出力】
 ・足し算とファイル出力
