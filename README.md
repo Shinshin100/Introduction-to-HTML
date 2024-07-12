@@ -25,3 +25,5 @@ HTML の要素で、文書、ページ、アプリケーション、サイトな
 
 a: 以下を付加して、別タブで開くリンクを実装
 target="_blank" rel="noopener noreferrer"
+
+足し算サンプルをリンクに追加
