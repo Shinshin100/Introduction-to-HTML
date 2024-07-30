@@ -28,3 +28,4 @@ SelectOperator.html
 ・割り算とファイル出力
 
 サンプルタグページを追加
+tagSample.html
