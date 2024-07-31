@@ -27,5 +27,5 @@ SelectOperator.html
 ・掛け算とファイル出力
 ・割り算とファイル出力
 
-サンプルタグページを追加
+タグのサンプルページを追加
 tagSample.html
