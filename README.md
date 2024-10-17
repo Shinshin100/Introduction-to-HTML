@@ -9,6 +9,8 @@ HTML練習用
 ・article
 ・a
 ・table
+・tr
+・td
 
 a: 以下を付加して、別タブで開くリンクを実装
 target="_blank" rel="noopener noreferrer"
