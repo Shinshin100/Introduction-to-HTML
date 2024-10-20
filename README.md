@@ -3,6 +3,7 @@ HTML練習用
 ファイル一覧
 ・README.md：本ファイル
 ・SelectOperator.html
+・THE_CURE.png
 
 自己紹介ページを追加
 画像を追加
