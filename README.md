@@ -4,6 +4,7 @@ HTML練習用
 ・README.md：本ファイル
 ・SelectOperator.html
 ・THE_CURE.png
+・githubShin100.jpg
 
 自己紹介ページを追加
 画像を追加
