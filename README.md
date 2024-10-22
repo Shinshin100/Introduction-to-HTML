@@ -5,6 +5,7 @@ HTML練習用
 ・SelectOperator.html
 ・THE_CURE.png
 ・githubShin100.jpg
+・index.html
 
 自己紹介ページを追加
 画像を追加
