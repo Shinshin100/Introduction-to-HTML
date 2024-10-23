@@ -6,6 +6,7 @@ HTML練習用
 ・THE_CURE.png
 ・githubShin100.jpg
 ・index.html
+・outputAddition.html
 
 自己紹介ページを追加
 画像を追加
