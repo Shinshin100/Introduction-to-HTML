@@ -7,6 +7,7 @@ HTML練習用
 ・githubShin100.jpg
 ・index.html
 ・outputAddition.html
+・outputCalculate.html
 
 自己紹介ページを追加
 画像を追加
