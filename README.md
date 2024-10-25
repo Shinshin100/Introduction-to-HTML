@@ -8,6 +8,7 @@ HTML練習用
 ・index.html
 ・outputAddition.html
 ・outputCalculate.html
+・style.css
 
 自己紹介ページを追加
 画像を追加
