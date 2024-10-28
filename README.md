@@ -3,7 +3,7 @@ HTML練習用
 ファイル一覧
 ・README.md：本ファイル
 ・SelectOperator.html：計算結果をテキストファイルに出力
-・THE_CURE.png
+・THE_CURE.png：THE CUREの画像ファイル
 ・githubShin100.jpg
 ・index.html
 ・outputAddition.html
