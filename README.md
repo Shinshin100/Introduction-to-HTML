@@ -5,7 +5,7 @@ HTML練習用
 ・SelectOperator.html：計算結果をテキストファイルに出力
 ・THE_CURE.png：THE CUREの画像ファイル
 ・githubShin100.jpg：アイコン画像ファイル
-・index.html
+・index.html：インデックスページ。本サイトのトップページ
 ・outputAddition.html
 ・outputCalculate.html
 ・style.css
