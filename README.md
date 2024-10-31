@@ -6,7 +6,7 @@ HTML練習用
 ・THE_CURE.png：THE CUREの画像ファイル
 ・githubShin100.jpg：アイコン画像ファイル
 ・index.html：インデックスページ。本サイトのトップページ
-・outputAddition.html
+・outputAddition.html：加算結果をテキストファイルに出力
 ・outputCalculate.html
 ・style.css
 ・tagSample.html
