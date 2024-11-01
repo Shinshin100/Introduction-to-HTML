@@ -7,7 +7,7 @@ HTML練習用
 ・githubShin100.jpg：アイコン画像ファイル
 ・index.html：インデックスページ。本サイトのトップページ
 ・outputAddition.html：加算結果をテキストファイルに出力
-・outputCalculate.html
+・outputCalculate.html：計算結果をテキストファイルに出力
 ・style.css
 ・tagSample.html
 
