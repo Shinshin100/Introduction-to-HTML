@@ -8,7 +8,7 @@ HTML練習用
 ・index.html：インデックスページ。本サイトのトップページ
 ・outputAddition.html：加算結果をテキストファイルに出力
 ・outputCalculate.html：計算結果をテキストファイルに出力
-・style.css
+・style.css：スタイル
 ・tagSample.html
 
 自己紹介ページを追加
