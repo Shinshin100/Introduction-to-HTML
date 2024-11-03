@@ -9,7 +9,7 @@ HTML練習用
 ・outputAddition.html：加算結果をテキストファイルに出力
 ・outputCalculate.html：計算結果をテキストファイルに出力
 ・style.css：スタイル
-・tagSample.html
+・tagSample.html：HTMLサンプル
 
 自己紹介ページを追加
 画像を追加
