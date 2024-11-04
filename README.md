@@ -11,7 +11,7 @@ HTML練習用
 ・style.css：スタイル
 ・tagSample.html：HTMLサンプル
 
-自己紹介ページを追加
+自己紹介ページを追加（index.html）
 画像を追加
 ・THE CURE
 以下のタグを追加
