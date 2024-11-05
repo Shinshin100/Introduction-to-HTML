@@ -12,7 +12,7 @@ HTML練習用
 ・tagSample.html：HTMLサンプル
 
 自己紹介ページを追加（index.html）
-画像を追加
+画像を追加（index.html）
 ・THE CURE
 以下のタグを追加
 ・img
