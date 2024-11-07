@@ -14,7 +14,7 @@ HTML練習用
 自己紹介ページを追加（index.html）
 画像を追加（index.html）
 ・THE CURE（THE_CURE.png）
-以下のタグを追加
+以下のタグを追加（index.html）
 ・img
 ・h1, h2, h3, h4, h5, h6
 ・article
