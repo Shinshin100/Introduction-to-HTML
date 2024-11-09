@@ -1,15 +1,24 @@
 HTML練習用
 
 ファイル一覧
-・README.md：本ファイル
-・SelectOperator.html：計算結果をテキストファイルに出力
-・THE_CURE.png：THE CUREの画像ファイル
-・githubShin100.jpg：アイコン画像ファイル
-・index.html：インデックスページ。本サイトのトップページ
-・outputAddition.html：加算結果をテキストファイルに出力
-・outputCalculate.html：計算結果をテキストファイルに出力
-・style.css：スタイル
-・tagSample.html：HTMLサンプル
+・README.md
+　　本ファイル
+・SelectOperator.html
+　　計算結果をテキストファイルに出力
+・THE_CURE.png
+　　THE CUREの画像ファイル
+・githubShin100.jpg
+　　アイコン画像ファイル
+・index.html
+　　インデックスページ。本サイトのトップページ
+・outputAddition.html
+　　加算結果をテキストファイルに出力
+・outputCalculate.html
+　　計算結果をテキストファイルに出力
+・style.css
+　　スタイルシート
+・tagSample.html
+　　HTMLサンプル
 
 自己紹介ページを追加（index.html）
 画像を追加（index.html）
@@ -24,7 +33,7 @@ HTML練習用
 ・td
 
 a: 以下を付加して、別タブで開くリンクを実装（index.html）
-target="_blank" rel="noopener noreferrer"
+    target="_blank" rel="noopener noreferrer"
 
 ・足し算サンプルをリンクに追加
 ・足し算、引き算サンプルをリンクに追加
