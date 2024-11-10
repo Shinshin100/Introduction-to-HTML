@@ -32,11 +32,11 @@ HTML練習用
 ・tr
 ・td
 
-a: 以下を付加して、別タブで開くリンクを実装（index.html）
-    target="_blank" rel="noopener noreferrer"
+aタグに以下を付加して、別タブで開くリンクを実装（index.html）
+  target="_blank" rel="noopener noreferrer"
 
-・足し算サンプルをリンクに追加
-・足し算、引き算サンプルをリンクに追加
+足し算サンプルをリンクに追加（index.html）
+足し算、引き算サンプルをリンクに追加（index.html）
 
 SelectOperator.html
 （outputCalculateの演算を一つにまとめる）
