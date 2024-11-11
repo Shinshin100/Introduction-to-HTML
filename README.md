@@ -38,8 +38,7 @@ aタグに以下を付加して、別タブで開くリンクを実装（index.h
 足し算サンプルをリンクに追加（index.html）
 足し算、引き算サンプルをリンクに追加（index.html）
 
-SelectOperator.html
-（outputCalculateの演算を一つにまとめる）
+outputCalculateの演算を一つにまとめる（SelectOperator.html）
 
 【計算結果出力】
 ・足し算とファイル出力
