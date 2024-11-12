@@ -46,7 +46,6 @@ outputCalculateの演算を一つにまとめる（SelectOperator.html）
 ・掛け算とファイル出力
 ・割り算とファイル出力
 
-タグのサンプルページを追加
-tagSample.html
+タグのサンプルページを追加（tagSample.html）
 
 テーブルサンプル追加
