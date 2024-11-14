@@ -36,10 +36,10 @@ aタグに以下を付加して、別タブで開くリンクを実装（index.h
   target="_blank" rel="noopener noreferrer"
 
 足し算サンプルをリンクに追加（index.html）
+
 足し算、引き算サンプルをリンクに追加（index.html）
 
 outputCalculateの演算を一つにまとめる（SelectOperator.html）
-
 【計算結果出力】
 ・足し算とファイル出力
 ・引き算とファイル出力
