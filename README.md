@@ -25,15 +25,15 @@ HTML練習用です。
 ・画像を追加
     THE CURE（THE_CURE.png）
 
+・以下のタグを追加（index.html）
+    img
+    h1, h2, h3, h4, h5, h6
+    article
+    a
+    table
+    tr
+    td
 
-以下のタグを追加（index.html）
-・img
-・h1, h2, h3, h4, h5, h6
-・article
-・a
-・table
-・tr
-・td
 
 aタグに以下を付加して、別タブで開くリンクを実装（index.html）
   target="_blank" rel="noopener noreferrer"
