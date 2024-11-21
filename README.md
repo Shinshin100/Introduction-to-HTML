@@ -25,7 +25,7 @@ HTML練習用です。
 ・画像を追加
     THE CURE（THE_CURE.png）
 
-・以下のタグを追加（index.html）
+・以下のタグを追加
     img
     h1, h2, h3, h4, h5, h6
     article
@@ -37,9 +37,10 @@ HTML練習用です。
 ・aタグに以下を付加して、別タブで開くリンクを実装
     target="_blank" rel="noopener noreferrer"
 
-足し算サンプルをリンクに追加（index.html）
+・足し算サンプルをリンクに追加
 
-足し算、引き算サンプルをリンクに追加（index.html）
+・足し算、引き算サンプルをリンクに追加
+
 
 outputCalculateの演算を一つにまとめる（SelectOperator.html）
 【計算結果出力】
