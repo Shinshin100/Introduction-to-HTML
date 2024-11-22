@@ -41,6 +41,8 @@ HTML練習用です。
 
 ・足し算、引き算サンプルをリンクに追加
 
+・テーブルサンプル追加
+
 
 outputCalculateの演算を一つにまとめる（SelectOperator.html）
 【計算結果出力】
@@ -51,4 +53,3 @@ outputCalculateの演算を一つにまとめる（SelectOperator.html）
 
 タグのサンプルページを追加（tagSample.html）
 
-テーブルサンプル追加（index.html）
