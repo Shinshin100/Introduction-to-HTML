@@ -25,7 +25,6 @@ HTML練習用です。
 ・自己紹介ページを追加
 ・画像を追加
     THE CURE（THE_CURE.png）
-
 ・以下のタグを追加
     img
     h1, h2, h3, h4, h5, h6
@@ -34,14 +33,10 @@ HTML練習用です。
     table
     tr
     td
-
 ・aタグに以下を付加して、別タブで開くリンクを実装
     target="_blank" rel="noopener noreferrer"
-
 ・足し算サンプルをリンクに追加
-
 ・足し算、引き算サンプルをリンクに追加
-
 ・テーブルサンプル追加
     県庁所在地
 
