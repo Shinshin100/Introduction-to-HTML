@@ -70,5 +70,6 @@ HTML練習用です。
 【tagSample.html】
 ・html
 ・head
+・h1, h2, h3
 
 
