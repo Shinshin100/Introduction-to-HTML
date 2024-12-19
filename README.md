@@ -71,6 +71,7 @@ HTML練習用です。
 ・html
 ・head
 ・meta
+・title
 ・h1, h2, h3
 ・p
 ・a
