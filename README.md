@@ -74,6 +74,7 @@ HTML練習用です。
 ・title
 ・h1, h2, h3
 ・p
+・em
 ・a
 ・img
 ・ul
