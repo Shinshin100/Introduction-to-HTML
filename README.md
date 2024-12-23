@@ -76,6 +76,7 @@ HTML練習用です。
 ・p
 ・em
 ・strong
+・br
 ・a
 ・img
 ・ul
