@@ -72,6 +72,7 @@ HTML練習用です。
 ・head
 ・meta
 ・title
+・body
 ・h1, h2, h3
 ・p
 ・em
