@@ -82,4 +82,5 @@ HTML練習用です。
 ・img
 ・ul
 ・li
+・div
 ・blockquote
