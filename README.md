@@ -81,7 +81,7 @@ HTML練習用です。
 ・a
 ・img
 ・ul
-・li
 ・ol
+・li
 ・div
 ・blockquote
