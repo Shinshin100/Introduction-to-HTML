@@ -84,4 +84,5 @@ HTML練習用です。
 ・ol
 ・li
 ・div
+・span
 ・blockquote
