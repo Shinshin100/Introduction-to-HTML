@@ -86,3 +86,4 @@ HTML練習用です。
 ・div
 ・span
 ・blockquote
+・del
