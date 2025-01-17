@@ -17,6 +17,8 @@ HTML練習用です。
 　　計算結果をテキストファイルに出力
 ・style.css
 　　スタイルシート
+・tagList.html
+　　HTMLタグ一覧
 ・tagSample.html
 　　HTMLサンプル
 
