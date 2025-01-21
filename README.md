@@ -72,6 +72,7 @@ HTML練習用です。
 【tagList.html】
 ・html
 ・head
+・body
 
 ---------------------------------------------
 【tagSample.html】
