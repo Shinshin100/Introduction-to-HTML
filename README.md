@@ -73,6 +73,7 @@ HTML練習用です。
 ・html
 ・head
 ・body
+・title
 ・h1
 ・p
 ・a
