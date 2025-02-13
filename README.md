@@ -85,6 +85,7 @@ HTML練習用です。
 ・br
 ・font
 ・isindex
+・base
 
 ---------------------------------------------
 【tagSample.html】
