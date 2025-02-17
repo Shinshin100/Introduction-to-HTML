@@ -87,6 +87,7 @@ HTML練習用です。
 ・isindex
 ・base
 ・script
+・center
 
 ---------------------------------------------
 【tagSample.html】
