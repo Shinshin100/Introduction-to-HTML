@@ -90,6 +90,7 @@ HTML練習用です。
 ・center
 ・blockquote
 ・address
+・noscript
 
 ---------------------------------------------
 【tagSample.html】
