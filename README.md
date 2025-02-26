@@ -83,7 +83,6 @@ HTML練習用です。
 ・em
 ・hr
 ・br
-・font
 ・isindex
 ・base
 ・script
@@ -91,6 +90,7 @@ HTML練習用です。
 ・blockquote
 ・address
 ・noscript
+・font
 
 ---------------------------------------------
 【tagSample.html】
