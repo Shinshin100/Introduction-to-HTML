@@ -91,6 +91,7 @@ HTML練習用です。
 ・address
 ・noscript
 ・font
+・basefont
 
 ---------------------------------------------
 【tagSample.html】
