@@ -92,6 +92,7 @@ HTML練習用です。
 ・noscript
 ・font
 ・basefont
+・i
 
 ---------------------------------------------
 【tagSample.html】
