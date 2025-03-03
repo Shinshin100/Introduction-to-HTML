@@ -93,6 +93,7 @@ HTML練習用です。
 ・font
 ・basefont
 ・i
+・tt
 
 ---------------------------------------------
 【tagSample.html】
