@@ -98,6 +98,7 @@ HTML練習用です。
 ・u
 ・strike
 ・big
+・small
 
 ---------------------------------------------
 【tagSample.html】
