@@ -99,6 +99,7 @@ HTML練習用です。
 ・strike
 ・big
 ・small
+・sub
 
 ---------------------------------------------
 【tagSample.html】
