@@ -116,6 +116,7 @@ HTML練習用です。
 ・td
 ・caption
 ・map
+・area
 
 ---------------------------------------------
 【tagSample.html】
