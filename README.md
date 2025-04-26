@@ -118,6 +118,7 @@ HTML練習用です。
 ・map
 ・area
 ・form
+・input
 
 ---------------------------------------------
 【tagSample.html】
