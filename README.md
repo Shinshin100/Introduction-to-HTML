@@ -119,6 +119,7 @@ HTML練習用です。
 ・area
 ・form
 ・input
+・select
 
 ---------------------------------------------
 【tagSample.html】
