@@ -120,6 +120,7 @@ HTML練習用です。
 ・form
 ・input
 ・select
+・textarea
 
 ---------------------------------------------
 【tagSample.html】
