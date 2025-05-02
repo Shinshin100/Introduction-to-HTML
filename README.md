@@ -121,6 +121,7 @@ HTML練習用です。
 ・input
 ・select
 ・textarea
+・applet
 
 ---------------------------------------------
 【tagSample.html】
