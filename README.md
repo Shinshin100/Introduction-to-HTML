@@ -122,6 +122,7 @@ HTML練習用です。
 ・select
 ・textarea
 ・applet
+・frameset
 
 ---------------------------------------------
 【tagSample.html】
