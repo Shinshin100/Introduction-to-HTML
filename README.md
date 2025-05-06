@@ -123,6 +123,7 @@ HTML練習用です。
 ・textarea
 ・applet
 ・frameset
+・frame
 
 ---------------------------------------------
 【tagSample.html】
