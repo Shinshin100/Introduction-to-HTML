@@ -124,6 +124,7 @@ HTML練習用です。
 ・applet
 ・frameset
 ・frame
+・noframes
 
 ---------------------------------------------
 【tagSample.html】
