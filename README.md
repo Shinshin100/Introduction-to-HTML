@@ -125,6 +125,7 @@ HTML練習用です。
 ・frameset
 ・frame
 ・noframes
+・abbr
 
 ---------------------------------------------
 【tagSample.html】
