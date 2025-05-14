@@ -127,6 +127,7 @@ HTML練習用です。
 ・noframes
 ・abbr
 ・address
+・area
 
 ---------------------------------------------
 【tagSample.html】
