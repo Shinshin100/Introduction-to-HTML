@@ -128,6 +128,7 @@ HTML練習用です。
 ・abbr
 ・address
 ・area
+・article
 
 ---------------------------------------------
 【tagSample.html】
