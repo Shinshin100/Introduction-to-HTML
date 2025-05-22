@@ -130,6 +130,7 @@ HTML練習用です。
 ・area
 ・article
 ・aside
+・audio
 
 ---------------------------------------------
 【tagSample.html】
