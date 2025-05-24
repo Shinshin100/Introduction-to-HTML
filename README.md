@@ -131,6 +131,7 @@ HTML練習用です。
 ・article
 ・aside
 ・audio
+・b
 
 ---------------------------------------------
 【tagSample.html】
