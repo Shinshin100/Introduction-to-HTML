@@ -136,6 +136,7 @@ HTML練習用です。
 ・bdi
 ・bdo
 ・big
+・blockquote
 
 ---------------------------------------------
 【tagSample.html】
