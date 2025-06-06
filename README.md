@@ -137,6 +137,7 @@ HTML練習用です。
 ・bdo
 ・big
 ・blockquote
+・body
 
 ---------------------------------------------
 【tagSample.html】
