@@ -138,6 +138,7 @@ HTML練習用です。
 ・big
 ・blockquote
 ・body
+・br
 
 ---------------------------------------------
 【tagSample.html】
