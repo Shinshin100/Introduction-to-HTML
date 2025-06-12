@@ -140,6 +140,7 @@ HTML練習用です。
 ・body
 ・br
 ・button
+・canvas
 
 ---------------------------------------------
 【tagSample.html】
