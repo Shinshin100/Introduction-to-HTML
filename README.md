@@ -141,6 +141,7 @@ HTML練習用です。
 ・br
 ・button
 ・canvas
+・caption
 
 ---------------------------------------------
 【tagSample.html】
