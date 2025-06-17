@@ -142,6 +142,7 @@ HTML練習用です。
 ・button
 ・canvas
 ・caption
+・center
 
 ---------------------------------------------
 【tagSample.html】
