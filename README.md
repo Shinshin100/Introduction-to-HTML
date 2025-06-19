@@ -143,6 +143,7 @@ HTML練習用です。
 ・canvas
 ・caption
 ・center
+・cite
 
 ---------------------------------------------
 【tagSample.html】
