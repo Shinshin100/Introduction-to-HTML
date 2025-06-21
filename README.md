@@ -144,6 +144,7 @@ HTML練習用です。
 ・caption
 ・center
 ・cite
+・code
 
 ---------------------------------------------
 【tagSample.html】
