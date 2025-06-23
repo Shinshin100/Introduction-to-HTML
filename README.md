@@ -145,6 +145,7 @@ HTML練習用です。
 ・center
 ・cite
 ・code
+・col
 
 ---------------------------------------------
 【tagSample.html】
