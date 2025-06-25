@@ -146,6 +146,7 @@ HTML練習用です。
 ・cite
 ・code
 ・col
+・colgroup
 
 ---------------------------------------------
 【tagSample.html】
