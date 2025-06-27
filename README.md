@@ -147,6 +147,7 @@ HTML練習用です。
 ・code
 ・col
 ・colgroup
+・data
 
 ---------------------------------------------
 【tagSample.html】
