@@ -149,6 +149,7 @@ HTML練習用です。
 ・colgroup
 ・data
 ・datalist
+・dd
 
 ---------------------------------------------
 【tagSample.html】
