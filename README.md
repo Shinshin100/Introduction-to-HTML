@@ -151,6 +151,7 @@ HTML練習用です。
 ・datalist
 ・dd
 ・del
+・details
 
 ---------------------------------------------
 【tagSample.html】
