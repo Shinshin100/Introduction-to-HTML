@@ -153,6 +153,7 @@ HTML練習用です。
 ・del
 ・details
 ・dfn
+・dialog
 
 ---------------------------------------------
 【tagSample.html】
