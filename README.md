@@ -154,6 +154,7 @@ HTML練習用です。
 ・details
 ・dfn
 ・dialog
+・div
 
 ---------------------------------------------
 【tagSample.html】
