@@ -159,6 +159,7 @@ HTML練習用です。
 ・dt
 ・em
 ・embed
+・fieldset
 
 ---------------------------------------------
 【tagSample.html】
