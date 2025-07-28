@@ -160,6 +160,7 @@ HTML練習用です。
 ・em
 ・embed
 ・fieldset
+・figcaption
 
 ---------------------------------------------
 【tagSample.html】
