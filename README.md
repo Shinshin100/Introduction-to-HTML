@@ -162,6 +162,7 @@ HTML練習用です。
 ・fieldset
 ・figcaption
 ・figure
+・footer
 
 ---------------------------------------------
 【tagSample.html】
