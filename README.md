@@ -163,6 +163,7 @@ HTML練習用です。
 ・figcaption
 ・figure
 ・footer
+・form
 
 ---------------------------------------------
 【tagSample.html】
