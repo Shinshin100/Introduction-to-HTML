@@ -164,6 +164,7 @@ HTML練習用です。
 ・figure
 ・footer
 ・form
+・h1
 
 ---------------------------------------------
 【tagSample.html】
