@@ -167,6 +167,7 @@ HTML練習用です。
 ・h1
 ・head
 ・header
+・hgroup
 
 ---------------------------------------------
 【tagSample.html】
