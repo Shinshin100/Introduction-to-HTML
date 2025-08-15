@@ -168,6 +168,7 @@ HTML練習用です。
 ・head
 ・header
 ・hgroup
+・hr
 
 ---------------------------------------------
 【tagSample.html】
