@@ -174,6 +174,7 @@ HTML練習用です。
 ・iframe
 ・img
 ・input
+・kbd
 
 ---------------------------------------------
 【tagSample.html】
